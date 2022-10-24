@@ -1,9 +1,9 @@
 package avaliacao_de_goleiros;
-
+//Ap01(Antonio Acrisio Caxias Sousa)
 public class Main {
 
 	public static void main(String[] args) {
-		//Inst‚ncia chutes
+		//Inst√¢ncia chutes
 		Chute_Ao_Gol chute01 = new Chute_Ao_Gol (1, 2, 1, 4 ,7);
 		Chute_Ao_Gol chute02 = new Chute_Ao_Gol (2, 6, 1, 3, 6);
 		Chute_Ao_Gol chute03 = new Chute_Ao_Gol (3, 9, 2, 4, 15);
@@ -35,7 +35,7 @@ public class Main {
 		Chute_Ao_Gol chute29 = new Chute_Ao_Gol (29, 10, 2, 2, 13);
 		Chute_Ao_Gol chute30 = new Chute_Ao_Gol (30, 7, 3, 5, 3);
 		
-		//Inst‚ncia Goleiros
+		//Inst√¢ncia Goleiros
 		Goleiro goleiro01 = new Goleiro(1, "Pratik Skaggs" ,5, 7, 8, 9, 6, 6);
 		Goleiro goleiro02 = new Goleiro(2, "Uehudah Hack", 9, 6, 8, 8, 7, 10);
 		Goleiro goleiro03 = new Goleiro(3, "Edison Drye", 5, 8, 5, 8, 10, 7);
